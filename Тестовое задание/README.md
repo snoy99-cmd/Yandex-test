@@ -32,7 +32,7 @@
 
 ## 🚀 Быстрый старт (2 минуты)
 
-git clone 
+git clone  https://github.com/snoy99-cmd
 cd yandex-disk-api-tests  
 $env:YANDEX_DISK_OAUTH="ваш_токен"  
 ./gradlew clean test
