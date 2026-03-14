@@ -87,8 +87,3 @@ https://yandex.ru/dev/disk/rest/
 - Связи между тестами (CRUD)  
 - Техническими деталями  
 
-
-**Автор**: Захарин Виталий  
-**Telegram**: [t.me/@ZaharinVN](https://t.me/@ZaharinVN)  
-**Дата**: Март 2026  
-
